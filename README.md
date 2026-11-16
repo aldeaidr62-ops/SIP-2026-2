@@ -7,12 +7,5 @@ kuliah Sistem Informasi Perencanaan (SIP) 2026.
 - Lokasi kampus PTN di Surabaya (ITS, UNAIR, UIN, UNESA, dan lainnya)
 - Foto setiap kampus
 - Analisis aksesibilitas kampus
-## Dibuat dengan
-- QGIS
-- qgis2web (Open Layers)
-- GitHub Pages
-## Pembuat
-Nama: ALDEA
-NIP : 202504132
-Program Studi: PWK, UNESA
+
 ## TERIMAKASIH UNTUK PRODI PWK ITS UNTUK CONTOH DATA DAN MODUL YANG TELAH DIBERIKAN
